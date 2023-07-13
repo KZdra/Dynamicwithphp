@@ -1,0 +1,1 @@
+<iframe src="https://www.smkicb-teknika.sch.id/read/2/profil" width="100%" height="900" frameborder="0"></iframe>
